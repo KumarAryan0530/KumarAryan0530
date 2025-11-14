@@ -1,86 +1,120 @@
-<!-- ==================== Animated Header ==================== -->
+<!-- ==================== Vibrant Animated Header (colourful + bold) ==================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=800&color=FF0066&center=true&vCenter=true&width=1000&lines=Hi+👋,+I%27m+Kumar+Aryan;Frontend+Developer+%7C+Angular+%7C+React;Designer+%7C+Builder+%7C+Problem+Solver" alt="Typing Animation" />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=00A3FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Aryan;Frontend+Developer+%E2%9A%99%EF%B8%8F+%7C+UI%2FUX+lover;Angular+%7C+React+%7C+.NET+%7C+Node.js" alt="Typing Animation" />
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="color splash" width="1100" style="max-width:100%" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="90" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumararyan0530&label=Profile%20views&color=0e75b6&style=flat" alt="kumararyan0530" />
+  <img src="https://komarev.com/ghpvc/?username=kumararyan0530&label=<b>Profile%20views</b>&color=ff69b4&style=flat" alt="kumararyan0530" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 💻 Frontend Developer with a love for clean UI, responsive design and modern web apps  
-- 📬 Reach me: **aryanharshraj0530@gmail.com**  
-- 🎯 Always exploring new tech and polishing UX & architecture
+## 🔥 **About Me**  
+**💻 Frontend Developer** • **UI/UX Lover** • **Clean Code & Scalable Architecture**  
+**📫 Reach me:** **aryanharshraj0530@gmail.com**  
+**🎯 Always learning — building modern, high-performance web apps.**
 
 ---
 
-### 🌐 Connect
+## 🌈 **Connect With Me**  
 <p align="center">
-  <a href="https://linkedin.com/in/kumar-a-730a27230" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://twitter.com/kumararyan0530" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/21541571" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/kumararyan0530" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/musicianaryan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/kumararyan0530" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kumar-a-730a27230" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/kumararyan0530" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://stackoverflow.com/users/21541571" target="_blank">
+    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
+  </a>
+  <a href="https://instagram.com/kumararyan0530" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/c/musicianaryan" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/kumararyan0530" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-0f9d58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" />&nbsp;
-
-  <!-- Mobile -->
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40" />&nbsp;
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg" alt=".net" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />&nbsp;
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />&nbsp;
-
-  <!-- Others -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-</p>
-
----
-
-### ✨ Highlights & Animated Stats
+## 🛠️ **Tech Stack**  
 <p align="center">
-  <!-- GitHub Trophies (visual flair) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kumararyan0530&theme=algolia" alt="trophies" />
+  <!-- Big colourful badges to make it lively -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />&nbsp;
+  <img src="https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+  <img src="https://img.shields.io/badge/AngularMaterial-FF4081?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
 </p>
 
 <p align="center">
-  <!-- Animated-like (dynamic) GitHub stats image -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kumararyan0530&show_icons=true&theme=onedark" alt="github stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumararyan0530&theme=dark" alt="streak" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white" alt="C#" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
 
-### 📌 Quick Tips (for your profile visitors)
-- ⭐ Star repos you find useful — it helps me know what to build next  
-- 📂 Look at pinned repos for sample projects & small demos  
-- 💬 DM on LinkedIn for collaborations or internship/project offers
+## ✨ **Bold Highlights** (what I bring)
+- **Clean, accessible UI** and pixel-perfect implementations  
+- **Responsive, performance-first** web apps (Angular / React)  
+- **Backend integration** with **.NET** & **Node.js**, DBs (Postgres / MySQL)  
+- **C#** for server / API work & small utilities  
+- **Design → Code**: I convert Figma designs into living apps
 
 ---
 
-### ✨ Thanks for stopping by!
-If you'd like an even more animated header (GIF banner, gradient typing, or a short intro Lottie animation), tell me which style you prefer and I'll give you the exact embed snippet.
+## 🎨 **Fully loaded animations & visuals**  
+- **Animated typing header** (above) + **hero GIF** for instant visual punch.  
+- **Colorful badges** across the stack — bold and eye-catching.  
+- **GitHub trophies & animated stats** below for liveliness.
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kumararyan0530&theme=darkhub&row=1&column=4" alt="Trophies" />
+</p>
+
+<p align="center">
+  <!-- Dynamic stats (choose colourful theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kumararyan0530&show_icons=true&theme=react" alt="GitHub Stats" />&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumararyan0530&theme=blueberry" alt="Streak Stats" />
+</p>
+
+---
+
+## 📌 **Pinned Projects**  
+<p align="center">
+  <a href="https://github.com/kumararyan0530/PROJECT-1" target="_blank">
+    <img src="https://img.shields.io/badge/Project-1-ff7f50?style=for-the-badge" alt="Project 1" />
+  </a>
+  <a href="https://github.com/kumararyan0530/PROJECT-2" target="_blank">
+    <img src="https://img.shields.io/badge/Project-2-7b68ee?style=for-the-badge" alt="Project 2" />
+  </a>
+  <a href="https://github.com/kumararyan0530/PROJECT-3" target="_blank">
+    <img src="https://img.shields.io/badge/Project-3-00fa9a?style=for-the-badge" alt="Project 3" />
+  </a>
+</p>
+
+> **Tip:** Replace `PROJECT-1`, `PROJECT-2`, `PROJECT-3` with real repo names to make them clickable and live.
+
+---
+
+## 🙌 Thanks for stopping by — **star** a repo if you like what you see!  
+**Let's build something colorful & animated together.**
