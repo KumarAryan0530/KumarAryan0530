@@ -22,7 +22,7 @@
 
 ---
 
-## 🌈 **Connect With Me**
+## 📡 **Connect With Me**
 <p align="center">
   <a href="https://linkedin.com/in/kumar-a-730a27230" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
